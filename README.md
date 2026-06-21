@@ -1,7 +1,7 @@
 # Programming Task 05 Report
 
 **Date:** June 2026  
-**Intern:** Shalini Sengar
+**Intern:** Seema
 
 ## Task Objective
 
